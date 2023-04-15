@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/NodeJS-black?logo=node.js&logoColor=white&labelColor=339933"/>
 <img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white&labelColor=2496ED"/> -->
 <a href="#">
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebutt&title_color=000000&bg_color=fffefe&icon_color=7173e0&layout=compact" style="margin: 20px; position: absolute; top: 670px; left: 550px"/>
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebutt&title_color=000000&bg_color=fffefe&icon_color=7173e0&layout=compact" style="margin: 20px; position: absolute; top: 570px; left: 550px"/>
 </a>
 
 
