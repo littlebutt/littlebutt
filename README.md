@@ -27,4 +27,6 @@
 ![](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=white&labelColor=2496ED)
 
 ## 其の参、GitHubの状況
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebutt&title_color=000000&bg_color=fffefe&icon_color=7173e0&layout=compact" style="margin: 20px; width: 200px"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=littlebutt&title_color=000000&bg_color=fffefe&icon_color=7173e0&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=littlebutt)
