@@ -1,3 +1,32 @@
-<div style="text-align: center">
-<img src="./assets/title.jpg"/>
+
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/70781619?v=4"/>
+
+# Littlebutt
+_小奶球_
+  
 </div>
+
+## Who am i
+
+A Software Programmer, a Hardware Player and a Technique Recorder
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlebutt&show_icons=true&theme=light&hide_border=true">
+
+## Link
+[![wakatime](https://wakatime.com/badge/user/018f0816-e25e-49f2-b716-938be2eb881f.svg)](https://wakatime.com/@018f0816-e25e-49f2-b716-938be2eb881f)
+</br>
+<a href="mailto:luogan1996@icloud.com">Email</a> | 
+<a href="https://www.zhihu.com/people/luo-gan-5-62">zhihu</a>
+
+## Language
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=littlebutt&layout=compact&theme=light&hide_border=true">
+
+## Statistic
+
+<p align="center">
+  
+  <br/>
+  
+</p>
