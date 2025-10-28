@@ -11,7 +11,7 @@ _小奶球_
 
 A Software Programmer, a Hardware Player and a Technique Recorder
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlebutt&show_icons=true&theme=light&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlebutt&show_icons=true">
 
 ## Link
 [![wakatime](https://wakatime.com/badge/user/018f0816-e25e-49f2-b716-938be2eb881f.svg)](https://wakatime.com/@018f0816-e25e-49f2-b716-938be2eb881f)
@@ -22,7 +22,7 @@ A Software Programmer, a Hardware Player and a Technique Recorder
 
 ## Language
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=littlebutt&layout=compact&theme=light&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebutt">
 
 ## Statistic
 
